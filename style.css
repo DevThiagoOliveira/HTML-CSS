@@ -15,7 +15,7 @@
 }
 body {
   animation: gradient 20s ease infinite;
-  background: linear-gradient(90deg, #fd1d1d, #fd771d, #f4fd1d, #8ffd1d, #1dfd2b, #1dfd86, #00dcfb, #1000fb, #6d00fb, #fb00b6, #fb0000) no-repeat;
+  background-color: #1C1C1C;
   background-size: 300% 300%;
   height: 100vh;
   display: flex;
